@@ -1,0 +1,81 @@
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\Lab6.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\EntityFramework.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Buffers.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Memory.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\EntityFramework.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Buffers.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Memory.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\Lab6.exe.config
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\Lab6.exe
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\Lab6.pdb
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\EntityFramework.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Buffers.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Memory.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\EntityFramework.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Buffers.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Memory.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.exe
+C:\Users\Виктория\Downloads\ArchIS6-main\obj\Debug\Lab6.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\Lab6.exe.config
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\Lab6.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\Lab6.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\EntityFramework.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Buffers.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Memory.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\EntityFramework.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Buffers.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Memory.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\ArchIS6-main\obj\Debug\Lab6.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.Migrations.InitialCreate.resources
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\Lab6\obj\Debug\Lab6.Migrations.Migrate.resources
